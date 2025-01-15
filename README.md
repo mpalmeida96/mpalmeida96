@@ -1,6 +1,6 @@
 <img align="right" src="assets\img\programando.gif" width="350"/>
 
-> Aqui está o meu [**curriculo**](https://mpalmeida96.github.io)
+> Aqui está o meu [**curriculo**](https://mpalmeida96.github.io/mpalmeida96/)
 
 #### Abaixo os assuntos que se destacam sobre mim: 
 - 💻 Terminei minha faculdade em 2024;
