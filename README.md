@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/mpalmeida96/mpalmeida96/tree/ffb6158975733f13bd90acc59257ac1752b8c242/assets/img/programacao.gif" width="350"/>
+<img align="right" src="https://github.com/mpalmeida96/mpalmeida96/tree/ffb6158975733f13bd90acc59257ac1752b8c242/assets/img/programando.gif" width="350"/>
 
 Aqui está o meu [**curriculo**](https://github.com/mpalmeida96/mpalmeida96)
 
