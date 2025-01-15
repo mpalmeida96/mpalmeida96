@@ -3,5 +3,5 @@
 > Aqui está o meu [**curriculo**](https://github.com/mpalmeida96/mpalmeida96)
 
 #### Abaixo os assuntos que se destacam sobre mim: 
-- 💻 Terminei minha faculdade em 2024
-- ⚡ Gosto muito de tomar café, jogar video game e ficar com meus amigos
+- 💻 Terminei minha faculdade em 2024;
+- ⚡ Gosto muito de tomar café, jogar video game e ficar com meus amigos;
